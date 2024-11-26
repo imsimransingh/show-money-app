@@ -1,0 +1,36 @@
+.loadingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .tableContainer {
+    margin-top: 2rem;
+  }
+  
+  .tableTitle {
+    padding: 1rem;
+  }
+  .table.tr{
+    padding-left: 5px;
+  }
+  .headerRow {
+    background-color: #f5f5f5;
+  }
+  
+  .headerCell {
+    font-weight: bold;
+  }
+  
+  .sectionTitle {
+    font-weight: bold;
+    background-color: #e8f4fa;
+  }
+  
+  .summaryRow {
+    background-color: #f0f0f0;
+  }
+  .ft-bolder{
+    color:black;
+  }
